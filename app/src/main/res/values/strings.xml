@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">Nature Sounds</string>
+    <string name="tooltipTextShuffle">Shuffle</string>
+    <string name="tooltipTextRepeat">Repeat</string>
+    <string name="author" translatable="false">Chosic(https://www.chosic.com)</string>
+</resources>
